@@ -1,0 +1,6 @@
+{
+  "name": "YouCast — Plateforme BDE YouCode",
+  "description": "Refonte UI/UX premium et moderne pour YouCast : compétitions étudiantes, activités BDE, tableau de bord, messagerie et soumission d'idées.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
